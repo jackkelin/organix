@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+/* stylesheet originally created by Jackelin Herrera  */
+body { font-family: 'Josefin Slab', serif !Important; display:block; margin:10px auto; }
+p { font-size:14.5px; margin-right:20px; width:250px; height: 50px; color: #7EA367; }
+h1 { text-align:center; padding:5px; font-weight:200; }
+h2 { font-size: 20px !Important; font-family: 'Josefin Slab', serif !Important; }
+span.price { color:#666; font-weight:200; }
+span.desc { font-size: 14px; font-weight:300; }
+
+hr.thin { width:240px; color:black; }
+hr { margin: 0 auto !Important; width:970px; }
+img { margin-bottom: 10px; }
+
+#title { background:red; width:auto; height: 80px;  padding:3px; }
+#product-content { width:950px; padding:8px; margin:0 auto; border: 1px solid gray; background:white; position:relative; top: -15px;}
+.product-item { float:left; padding:10px; height: 270px; text-align:center; }
+.item-center { margin: 0 auto; text-align:center; }
+#second-level { margin:20px auto; width: 950px;}
+#cart-content { width:450px; float:left; padding:8px;}
+#shop-content { width:450px; float:right; padding:8px 8px 8px 25px; border-left: 1px solid gray; }
+
+#total-sign { float:left; font-weight: bold; margin-top: 10px; background: #E5FCE2; padding: 5px 0 5px 5px; }
+#cart-total { float:left; font-weight:bold; font-size: 20px; margin-top: 10px; background: #E5FCE2; padding: 5px 5px 5px 0; }
+
+td.pad { padding: 0 10px 0 10px; }
+td#shop-window { padding: 20px 60px; width:auto; }
+td.product-name { padding: 0 10px; }
+
+#footer { width: 1200px; position: absolute; bottom: -400px; }
+#footer-text { width: 1200px; text-align: center; }

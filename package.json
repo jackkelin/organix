@@ -1,0 +1,11 @@
+{
+  "name": "organix",
+  "version": "1.0.0",
+  "description": "Organix ecommerce JS website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jackelin Herrera <j.herr.g@gmail.com>",
+  "license": "ISC"
+}
